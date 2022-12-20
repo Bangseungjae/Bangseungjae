@@ -1,5 +1,5 @@
-## Hello! 
-## I'm Back-end Develooper
+## Hello! 👋
+## I'm Backend-Developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
