@@ -11,5 +11,7 @@
 ### Certificate
 - CKAD(Certified Kubernetes Application Developer)
 
+<br/>
+
 LinkedIn: https://www.linkedin.com/in/seungjae-bang/
 
