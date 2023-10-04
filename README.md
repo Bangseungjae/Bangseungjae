@@ -1,4 +1,4 @@
-## Hello I'm chungbuk university student
+## Hello I'm Chungbuk University Student
 
 ## A lttle about me as a developer
 
