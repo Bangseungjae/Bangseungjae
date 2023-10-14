@@ -13,5 +13,4 @@
 
 <br/>
 
-LinkedIn: https://www.linkedin.com/in/seungjae-bang/
 
