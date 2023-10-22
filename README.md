@@ -1,6 +1,6 @@
 ## Hello I'm Chungbuk University Student
 
-## A lttle about me as a developer
+## A little about me as a developer
 
 ### when I spend time on a project, I'm concerned abount
 - The big picture
