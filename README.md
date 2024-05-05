@@ -10,6 +10,7 @@
 
 ### Certificate
 - CKAD(Certified Kubernetes Application Developer)
+- SQLD
 
 <br/>
 
