@@ -11,6 +11,7 @@
 ### Certificate
 - CKAD(Certified Kubernetes Application Developer)
 - SQLD
+- 정보처리기사
 
 <br/>
 
