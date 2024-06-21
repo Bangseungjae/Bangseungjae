@@ -8,10 +8,10 @@
 - Safety
 - Maintainability & sustainability (if relevant)
 
-### Certificate
-- CKAD(Certified Kubernetes Application Developer)
+### Certificates
+- Certified Kubernetes Application Developer (CKAD) (2023.09 ~)
 - SQLD
-- 정보처리기사
+- Engineer Information Processing (정보처리기사)
 
 <br/>
 
