@@ -2,7 +2,7 @@
 
 ## A little about me as a developer
 
-### when I spend time on a project, I'm concerned abount
+### when I spend time on a project, I'm concerned about
 - The big picture
 - Efficiency
 - Safety
