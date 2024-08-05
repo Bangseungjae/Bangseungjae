@@ -14,7 +14,3 @@
 - Engineer Information Processing (정보처리기사)
 
 <br/>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bangseungjae&layout=compact&theme=radical)
-
